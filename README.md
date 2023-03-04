@@ -1,2 +1,2 @@
-# GoogleCast-to-Yeelight
-GoogleCast to Yeelight synchronizes the average color of the casted music's album cover and sets it to a Yeelight Device's color. 
+# GoogleCast to Yeelight
+## GC2Y is still under WIP, a working version will be uploaded next week (around March 8).
